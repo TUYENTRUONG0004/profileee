@@ -1,0 +1,13 @@
+body{
+    background-image: url(meeeeeeee.jpg) ;
+    background-size:cover;
+    line-height: 20px;
+    font-size: 20px;
+}
+#wrapper{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    color: rgb(140, 224, 114);
+}
